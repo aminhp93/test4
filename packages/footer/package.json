@@ -1,5 +1,5 @@
 {
-  "name": "@amin2/footer",
+  "name": "amin93-footer",
   "version": "2.0.0-alpha.0",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -26,5 +26,5 @@
   "devDependencies": {
     "rimraf": "^3.0.2"
   },
-  "gitHead": "05df403c717b9aa9fe3d1657c9bf3f22675283ce"
+  "gitHead": "e430cf97559366c011f2be80051d01fb1aab5189"
 }
